@@ -22,10 +22,10 @@ Centralizar e organizar meus certificados para:
 ## 🏗 Linha Amarela – O que é?
 A **linha amarela** da John Deere abrange máquinas de construção, movimentação de terra e equipamentos pesados como:
 - Escavadeiras
-- Pá-carregadeiras
+- Pás-carregadeiras
 - Motoniveladoras
 - Retroescavadeiras
-- Compactadores
+- Tratores de Esteiras
 
 ---
 
