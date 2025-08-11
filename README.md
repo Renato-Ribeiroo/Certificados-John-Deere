@@ -38,9 +38,9 @@ A **linha amarela** da John Deere abrange máquinas de construção, movimentaç
 ---
 
 ## 📞 Contato
-- **LinkedIn:** [Seu Nome](https://linkedin.com/in/seu-perfil)
-- **E-mail:** seuemail@exemplo.com
-- **GitHub:** [Seu Perfil](https://github.com/seuusuario)
+- **LinkedIn:** Renato Ribeiro ((https://www.linkedin.com/in/renato-ribeiro2022/))
+- **E-mail:** renato_mry@hotmail.com
+- **GitHub:** ([https://github.com/seuusuario](https://github.com/Renato-Ribeiroo))
 
 ---
 
