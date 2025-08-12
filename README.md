@@ -28,11 +28,11 @@ A **linha amarela** da John Deere abrange máquinas de construção, movimentaç
 
 | Imagem | Categoria |
 |--------|-----------|
-| <img src="imagens/escavadeira.png" alt="Escavadeira" width="150"/> | **Escavadeira** |
-| <img src="imagens/pa-carregadeira.png" alt="Pá-carregadeira" width="150"/> | **Pá-carregadeira** |
-| <img src="imagens/motoniveladora.png" alt="Motoniveladora" width="150"/> | **Motoniveladora** |
-| <img src="imagens/retroescavadeira.png" alt="Retroescavadeira" width="150"/> | **Retroescavadeira** |
-| <img src="imagens/trator-esteiras.png" alt="Trator de Esteiras" width="150"/> | **Trator de Esteira** |
+| <img src="imagens/escavadeira.png" alt="Escavadeira" width="250"/> | **Escavadeira** |
+| <img src="imagens/pa-carregadeira.png" alt="Pá-carregadeira" width="250"/> | **Pá-carregadeira** |
+| <img src="imagens/motoniveladora.png" alt="Motoniveladora" width="250"/> | **Motoniveladora** |
+| <img src="imagens/retroescavadeira.png" alt="Retroescavadeira" width="250"/> | **Retroescavadeira** |
+| <img src="imagens/trator-esteiras.png" alt="Trator de Esteiras" width="250"/> | **Trator de Esteira** |
 
 ---
 
