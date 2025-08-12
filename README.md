@@ -48,12 +48,13 @@ A **linha amarela** da John Deere abrange máquinas de construção, movimentaç
 
 | Área de Treinamento                 | Quantidade |
 |-----------------------------------|-----------:|
-| Manutenção preventiva e corretiva | 43         |
-| Sistemas hidráulicos              | 33         |
-| Sistemas elétricos               | 29         |
-| Diagnóstico Service ADVISOR™     | 20         |
+| Manutenção preventiva e corretiva | 35         |
+| Sistemas hidráulicos              | 30         |
+| Sistemas elétricos               | 25         |
+| Motores                         | 15         |
+| Diagnóstico Service ADVISOR™     | 18         |
 | Telemetria JDLink™               | 15         |
-| Vendas e Fundamentos de Produto  | 38         |
+| Vendas e Fundamentos de Produto  | 40         |
 | **Total Geral**                  | **178**    |
 
 ---
