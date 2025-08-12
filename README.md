@@ -4,6 +4,7 @@ Bem-vindo(a) ao meu repositório de **certificados John Deere** na área de **li
 Aqui você encontra a comprovação das minhas qualificações, treinamentos e cursos realizados na plataforma oficial da John Deere, voltados para **operação**, **manutenção** e **tecnologia aplicada** em máquinas pesadas.
 
 ![Certificados](https://img.shields.io/badge/Certificados-178-green?style=for-the-badge)
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/Renato-Ribeiroo/certificados-john-deere?color=green&label=Tamanho%20do%20Reposit%C3%B3rio)  
 ![John Deere](https://img.shields.io/badge/John%20Deere-Linha%20Amarela-yellowgreen?logo=John-Deere&logoColor=white)  
 ![Status](https://img.shields.io/badge/Status-Atualizado-success)
