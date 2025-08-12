@@ -44,6 +44,18 @@ A **linha amarela** da John Deere abrange máquinas de construção, movimentaç
 - 🔹 Diagnóstico de falhas via Service ADVISOR™.  
 - 🔹 Tecnologia de monitoramento e telemetria JDLink™.
 
+## 📊 Resumo dos Certificados
+
+| Área de Treinamento                 | Quantidade |
+|-----------------------------------|-----------:|
+| Manutenção preventiva e corretiva | 43         |
+| Sistemas hidráulicos              | 33         |
+| Sistemas elétricos               | 29         |
+| Diagnóstico Service ADVISOR™     | 20         |
+| Telemetria JDLink™               | 15         |
+| Vendas e Fundamentos de Produto  | 38         |
+| **Total Geral**                  | **178**    |
+
 ---
 
 ## 📞 Contato
