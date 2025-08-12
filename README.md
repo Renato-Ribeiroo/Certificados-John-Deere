@@ -25,11 +25,11 @@ Centralizar e organizar meus certificados para:
 
 ## 🏗 Linha Amarela – O que é?
 A **linha amarela** da John Deere abrange máquinas de construção, movimentação de terra e equipamentos pesados como:
-- 🚜 Escavadeiras
-- 🛠 Pás-carregadeiras
-- 🏗 Motoniveladoras
-- 🔧 Retroescavadeiras
-- 🪨 Tratores de Esteiras
+<img src="imagens/escavadeira.png" alt="Escavadeira" width="100"/> **Escavadeiras**  
+<img src="imagens/pa-carregadeira.png" alt="Pá-carregadeira" width="100"/> **Pás-carregadeiras**  
+<img src="imagens/motoniveladora.png" alt="Motoniveladora" width="100"/> **Motoniveladoras**  
+<img src="imagens/retroescavadeira.png" alt="Retroescavadeira" width="100"/> **Retroescavadeiras**  
+<img src="imagens/trator-esteiras.png" alt="Trator de Esteiras" width="100"/> **Tratores de Esteiras**
 
 ---
 
